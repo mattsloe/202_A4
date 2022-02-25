@@ -17,7 +17,7 @@ The operations to be performed on those arguments will be based on the following
 ```
 # Notes
 * The menu will be an array of function pointers. Use the validated user input along with index notation [] to select the right function pointer
-  - More info here (Array of Function Pointers)[https://stackoverflow.com/questions/252748/how-can-i-use-an-array-of-function-pointers]
+  - More info here [Array of Function Pointers](https://stackoverflow.com/questions/252748/how-can-i-use-an-array-of-function-pointers)
 
 # Program Requirements
 1. Your program will take up to 15 arguments.
